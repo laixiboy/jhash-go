@@ -1,0 +1,2 @@
+# jhash-go
+jhash-go
